@@ -1,0 +1,36 @@
+.card-body{
+    border: 3px solid #FFD700;
+}
+
+.row{
+    margin-bottom: 200px;
+    margin-left: 80px;
+}
+
+h1{
+    margin-top: 80px;
+    margin-bottom: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30px;
+    text-align: center;
+    background-color: 	#000080;
+    color: white;
+}
+.card-title{
+    color: 	#000080;
+}
+
+span{
+    color: 		#0000CD;
+}
+
+h6{
+    color: red;
+}
+.card-subtitle{
+    color: #FFA500;
+}
+.card-text{
+    color:#000080 ;
+}
+
